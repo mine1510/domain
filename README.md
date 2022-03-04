@@ -16,7 +16,7 @@ Though patterns and principles presented here are **framework/language agnostic*
 
 ---
 AHAHAHHAHAA its worst read!!!!lvjbenp;vld'3g43g
-akbfkasfk
+akbfk
 - [Domain-Driven Hexagon](#domain-driven-hexagon)
 - [Architecture](#architecture)
       - [Pros](#pros)
