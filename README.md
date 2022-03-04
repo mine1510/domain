@@ -15,8 +15,7 @@ Though patterns and principles presented here are **framework/language agnostic*
 - [Backend best practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development.
 
 ---
-AHAHAHHAHAA its worst read!!!!lvjbenp;vld'3g43g CASINO
-akbfk
+AHAHAHHAHAA its worst read!!!!lvjbenp;
 - [Domain-Driven Hexagon](#domain-driven-hexagon)
 - [Architecture](#architecture)
       - [Pros](#pros)
